@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rakesh Roy
 ==================================================================================================================================
 
-Student \[ BTech in CSE \]
+Student \[ BTech ECE \]
 --------------------------
 
 I've been learning to code for 2 months. I chose Python as my first language. Currently learning c++ and little bit of Web Development i.e. HTML & CSS.
