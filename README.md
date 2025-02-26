@@ -1,4 +1,7 @@
-![logo](https://github.com/Programmer-Rakesh/Programmer-Rakesh/blob/main/12.gif)
+<p align="center">
+  <img src="https://github.com/Programmer-Rakesh/Programmer-Rakesh/blob/main/12.gif" width="200" height="200">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rakesh Roy</h1>
 <h3 align="center">A passionate BTech ECE major student from India</h3>
 
