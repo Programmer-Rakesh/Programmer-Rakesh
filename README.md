@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roy</h1>
 <h3 align="center">A passionate BTech ECE major student from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBlenNlYnMzdjdkYzlycml4YXR2ZGxleDlhaTM3c3IxNzN1NGF0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **an OpenCV project using computer vision**  
