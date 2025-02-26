@@ -55,8 +55,9 @@
 ---
 
 ## 🎖️ Badges & Stats  
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=programmer-rakesh&label=Profile%20views&color=0e75b6&style=flat" alt="programmer-rakesh" />
+<p align="left">
+  My GitHub profile: 
+  <a href="https://github.com/Programmer-Rakesh" target="_blank">Programmer-Rakesh</a>
 </p>
 
 <p align="left"> 
@@ -65,8 +66,7 @@
   </a> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/rakesh11" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rakesh11?logo=twitter&style=for-the-badge" alt="rakesh11" />
-  </a> 
+<p align="left">
+  My Twitter profile: 
+  <a href="https://x.com/rakeshaps8866" target="_blank">x.com/rakeshaps8866</a>
 </p>
