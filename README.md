@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roy</h1>
 <h3 align="center">A passionate BTech ECE major student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNhYWxpdWNteWhkNDQ3Zmo3d2gyc2ZoMGdwaDkxbjdtbHY4bjFodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNhYWxpdWNteWhkNDQ3Zmo3d2gyc2ZoMGdwaDkxbjdtbHY4bjFodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-rakesh&label=Profile%20views&color=0e75b6&style=flat" alt="programmer-rakesh" /> </p>
 
