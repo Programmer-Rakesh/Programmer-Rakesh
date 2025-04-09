@@ -44,11 +44,11 @@
 ---
 
 ## 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-rakesh&show_icons=true&locale=en&layout=compact" alt="programmer-rakesh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-rakesh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="programmer-rakesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmer-rakesh&show_icons=true&locale=en" alt="programmer-rakesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmer-rakesh&show_icons=true&locale=en&theme=tokyonight" alt="programmer-rakesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-rakesh&" alt="programmer-rakesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-rakesh&theme=tokyonight" alt="programmer-rakesh" /></p>
 
 ---
 
@@ -60,7 +60,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=programmer-rakesh" alt="programmer-rakesh" />
+    <img src="https://github-profile-trophy.vercel.app/?username=programmer-rakesh&theme=tokyonight" alt="programmer-rakesh" />
   </a> 
 </p>
 
