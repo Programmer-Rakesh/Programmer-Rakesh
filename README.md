@@ -7,15 +7,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **an OpenCV project using computer vision**  
-- 🌱 I’m currently learning **Java**  
-- 👯 I’m looking to collaborate on **projects using Arduino**  
-- 🤝 I’m looking for help with **IoT project (All-terrain rover)**  
-- 👨‍💻 All of my projects are available at **[My GitHub Projects](https://github.com/Programmer-Rakesh/My_Projects)**  
-- 💬 Ask me about **Arduino projects**  
-- 📫 Reach me at **rakeshaps8866@gmail.com**  
-- ⚡ Fun fact: **I also play sports!**  
+## 🚀 About Me
+
+👋 Hi, I’m **Rakesh Roy** – *B.Tech 1st Year (ECE)* | **Tech & Robotics Enthusiast**
+
+- 🔭 I’m currently working on a **Computer Vision project using OpenCV**
+- 🌱 I’m currently learning **Java** and exploring **Computer Vision**
+- 👯 I’m open to collaborate on **Arduino & Robotics** projects
+- 💻 **Languages:** Python 🐍, C, C++, JavaScript  
+- 🎨 **Web:** HTML & CSS *(Intermediate level)*
+- ⚡ **Hardware:** Arduino – circuits & embedded programming
+- 📂 Check out my work: [**My GitHub Projects**](https://github.com/Programmer-Rakesh/My_Projects)
+- 💬 Ask me about **Arduino projects** or **embedded systems**
+- 📫 Reach me at: **rakeshaps8866@gmail.com**
+- 🏃‍♂️ **Fun Fact:** I love **sports**, **cross-country running**, and **nature photography** 📸
+
 
 ---
 
