@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Java** and exploring **Computer Vision**
 - 👯 I’m open to collaborate on **Arduino & Robotics** projects
 - 💻 **Languages:** Python 🐍, C, C++, JavaScript  
-- 🎨 **Web:** HTML & CSS *(Intermediate level)*
+- 🎨 **Web:** HTML & CSS *(Basic level)*
 - ⚡ **Hardware:** Arduino – circuits & embedded programming
 - 📂 Check out my work: [**My GitHub Projects**](https://github.com/Programmer-Rakesh/My_Projects)
 - 💬 Ask me about **Arduino projects** or **embedded systems**
