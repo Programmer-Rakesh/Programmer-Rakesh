@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats  
 
 <!-- Top Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-rakesh&layout=compact&theme=tokyonight" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-rakesh&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" /></p>
 
 <!-- GitHub Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmer-rakesh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
