@@ -11,7 +11,6 @@
 
 👋 Hi, I’m **Rakesh Roy** – *B.Tech 1st Year (ECE)* | **Tech & Robotics Enthusiast**
 
-- 🔭 I’m currently working on a **Computer Vision project using OpenCV**
 - 👯 I’m open to collaborate on **Arduino & Robotics** projects
 - 💻 **Languages:** Python 🐍, C
 - ⚡ **Hardware:** Arduino, Esp32 – circuits & embedded programming
