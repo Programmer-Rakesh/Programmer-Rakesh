@@ -11,12 +11,12 @@
 
 👋 Hi, I’m **Rakesh Roy** – *B.Tech 1st Year (ECE)* | **Tech & Robotics Enthusiast**
 
-- 👯 I’m open to collaborate on **Arduino & Robotics** projects
-- 💻 **Languages:** Python 🐍, C
-- ⚡ **Hardware:** Arduino, Esp32 – circuits & embedded programming
+- I’m open to collaborate on **Arduino & Robotics** projects
+- **Languages:** Python 🐍, C
+- **Hardware:** Arduino, Esp32 – circuits & embedded programming
 - 📂 Check out my work: [**My GitHub Projects**]()
 - 📫 Reach me at: **rakeshaps8866@gmail.com**
-- 🏃‍♂️ **Fun Fact:** I love **sports**, **cross-country running**, and **nature photography** 📸
+- **Fun Fact:** I love **sports**, **cross-country running**, and **nature photography** 📸
 
 
 ---
