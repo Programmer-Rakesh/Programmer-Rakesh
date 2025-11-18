@@ -12,13 +12,10 @@
 👋 Hi, I’m **Rakesh Roy** – *B.Tech 1st Year (ECE)* | **Tech & Robotics Enthusiast**
 
 - 🔭 I’m currently working on a **Computer Vision project using OpenCV**
-- 🌱 I’m currently learning **Java** and exploring **Computer Vision**
 - 👯 I’m open to collaborate on **Arduino & Robotics** projects
-- 💻 **Languages:** Python 🐍, C, C++, JavaScript  
-- 🎨 **Web:** HTML & CSS *(Basic level)*
-- ⚡ **Hardware:** Arduino – circuits & embedded programming
-- 📂 Check out my work: [**My GitHub Projects**](https://github.com/Programmer-Rakesh/My_Projects)
-- 💬 Ask me about **Arduino projects** or **embedded systems**
+- 💻 **Languages:** Python 🐍, C
+- ⚡ **Hardware:** Arduino, Esp32 – circuits & embedded programming
+- 📂 Check out my work: [**My GitHub Projects**]()
 - 📫 Reach me at: **rakeshaps8866@gmail.com**
 - 🏃‍♂️ **Fun Fact:** I love **sports**, **cross-country running**, and **nature photography** 📸
 
