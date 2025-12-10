@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Programmer-Rakesh/Programmer-Rakesh/blob/main/u.jpg" width="850" height="40">
+  <img src="https://github.com/Programmer-Rakesh/Programmer-Rakesh/blob/main/u.jpg" width="850" height="400">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rakesh Roy</h1>
