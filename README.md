@@ -45,35 +45,4 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<!-- Top Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-rakesh&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" /></p>
-
-<!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmer-rakesh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
-
-<!-- Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-rakesh&theme=onedark" alt="GitHub Streak" /></p>
-
----
-
-## 🎖️ Badges & Stats  
-
-<p align="left">
-  My GitHub profile: 
-  <a href="https://github.com/Programmer-Rakesh" target="_blank">Programmer-Rakesh</a>
-</p>
-
-<!-- GitHub Trophy -->
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=programmer-rakesh&theme=gruvbox&row=1&column=6" alt="Trophies" />
-  </a> 
-</p>
-
-<!-- Twitter -->
-<p align="left">
-  My Twitter profile: 
-  <a href="https://x.com/rakeshaps8866" target="_blank">x.com/rakeshaps8866</a>
-</p>
