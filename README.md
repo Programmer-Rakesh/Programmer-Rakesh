@@ -9,7 +9,6 @@
 <img align="right" alt="Coding" width="240" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
 
 ## 🚀 About Me
-
 👋 Hi, I’m **Rakesh Roy** – *B.Tech 1st Year (ECE)* | **Tech & Robotics Enthusiast**
 
 - I’m open to collaborate on **Arduino & Robotics** projects
