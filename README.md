@@ -6,7 +6,7 @@
 <h3 align="center">A passionate BTech ECE major student from India</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> -->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
 
 ## 🚀 About Me
 
