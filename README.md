@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td align="left" valign="top" width="50%">
+    <td align="left" valign="top" width="100%">
 
 ## 🌍 Connect with Me
 <p>
@@ -40,7 +40,7 @@
 
   </td>
 
-  <td align="right" valign="top" width="50%">
+  <td align="right" valign="top" width="100%">
 
 ## 🛠️ Languages & Tools
 <p>
