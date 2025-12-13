@@ -23,7 +23,6 @@
 
 <table>
   <tr>
-    <!-- LEFT SIDE -->
     <td align="left" valign="top" width="50%">
 
 ## 🌍 Connect with Me
@@ -39,10 +38,7 @@
   </a>
 </p>
 
-    </td>
-
-    <!-- RIGHT SIDE -->
-    <td align="left" valign="top" width="50%">
+  </td>
 
 ## 🛠️ Languages & Tools
 <p>
@@ -57,7 +53,7 @@
   </a>
 </p>
 
-    </td>
+  </td>
   </tr>
 </table>
 
