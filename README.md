@@ -21,43 +21,61 @@
 
 ---
 
-<table>
-  <tr>
-    <td align="left" valign="top" width="100%">
-
 ## 🌍 Connect with Me
-<p>
+
+<p align="left">
   <a href="https://x.com/rakeshaps8866" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         alt="rakeshaps8866"
+         height="30"
+         width="40" />
   </a>
+
   <a href="https://www.linkedin.com/in/rakesh-r-219390305/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="rakesh-r-219390305"
+         height="30"
+         width="40" />
   </a>
+
   <a href="https://www.instagram.com/rakeshh.r11/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="rakeshh.r11"
+         height="30"
+         width="40" />
   </a>
 </p>
 
-  </td>
-
-  <td align="right" valign="top" width="100%">
+---
 
 ## 🛠️ Languages & Tools
-<p>
+
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+         alt="arduino"
+         width="40"
+         height="40" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="python"
+         width="40"
+         height="40" />
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+         alt="tensorflow"
+         width="40"
+         height="40" />
   </a>
 </p>
 
-  </td>
-  </tr>
-</table>
 
 
 ---
