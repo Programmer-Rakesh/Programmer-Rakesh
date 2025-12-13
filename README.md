@@ -40,7 +40,7 @@
 
   </td>
 
-  <td align="left" valign="top" width="50%">
+  <td align="right" valign="top" width="50%">
 
 ## 🛠️ Languages & Tools
 <p>
@@ -55,7 +55,7 @@
   </a>
 </p>
 
-    </td>
+  </td>
   </tr>
 </table>
 
