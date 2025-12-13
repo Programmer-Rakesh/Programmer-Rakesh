@@ -40,6 +40,8 @@
 
   </td>
 
+  <td align="left" valign="top" width="50%">
+
 ## 🛠️ Languages & Tools
 <p>
   <a href="https://www.arduino.cc/" target="_blank">
@@ -53,7 +55,7 @@
   </a>
 </p>
 
-  </td>
+    </td>
   </tr>
 </table>
 
