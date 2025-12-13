@@ -23,7 +23,7 @@
 
 ## 🌍 Connect with Me  
 <p align="left">
-<a href="https://twitter.com/rakesh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh11" height="30" width="40" /></a>
+<a href="https://x.com/rakeshaps8866" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakeshaps8866" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rakesh-r-219390305/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-r-219390305" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rakeshh.r11/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakeshh.r11" height="30" width="40" /></a>
 
