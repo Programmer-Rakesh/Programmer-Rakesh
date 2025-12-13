@@ -25,7 +25,14 @@
 <p align="left">
 <a href="https://twitter.com/rakesh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakesh roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh roy" height="30" width="40" /></a>
-<a href="https://instagram.com/half_engineerr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="half_engineerr01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rakeshh.r11/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="rakeshh.r11"
+       height="30"
+       width="40" />
+</a>
+
 <a href="https://www.hackerrank.com/rakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakesh" height="30" width="40" /></a>
 
 ---
