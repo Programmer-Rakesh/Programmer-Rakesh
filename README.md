@@ -77,12 +77,4 @@
 </p>
 
 
-
 ---
-
-## 📊 Language Usage Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Rakesh&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-</p>
-
-
