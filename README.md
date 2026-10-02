@@ -12,7 +12,7 @@
 👋 Hi, I’m **Rakesh Roy** – *B.Tech 1st Year (ECE)* | **Tech & Robotics Enthusiast**
 
 - I’m open to collaborate on **Robotics** projects
-- **Languages:** Python, C
+- **Languages:** Python
 - **Hardware:** Raspberry pi, Arduino, Esp32 – circuits & embedded programming
 - 📂 Check out my work: [**My GitHub Projects**](https://github.com/Programmer-Rakesh/PROJECTS)
 - 📫 Reach me at: **rakeshaps8866@gmail.com**
