@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
 
 ## 🚀 About Me
-👋 Hi, I’m **Rakesh Roy** – *B.Tech 1st Year (ECE)* | **Tech & Robotics Enthusiast**
+👋 Hi, I’m **Rakesh Roy** – *B.Tech 1st Year (ECE)* | **UAVs & Robotics Enthusiast**
 
 - I’m open to collaborate on **UAV, Robotics & Embedded Systems** projects
 - **Languages:** Python, Embedded C
