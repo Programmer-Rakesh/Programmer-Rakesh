@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Programmer-Rakesh/Programmer-Rakesh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Programmer-Rakesh/Programmer-Rakesh/output/github-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Programmer-Rakesh/Programmer-Rakesh/output/github-snake.svg" />
-</picture>
-
 #### Robotics & Simulation
 ![ROS 2](https://img.shields.io/badge/ROS_2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-FF6F00?style=for-the-badge)
@@ -36,3 +30,9 @@
 ![MapLibre](https://img.shields.io/badge/MapLibre_GL-3D_Maps-396CB2?style=for-the-badge&logo=maplibre&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Programmer-Rakesh/Programmer-Rakesh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Programmer-Rakesh/Programmer-Rakesh/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Programmer-Rakesh/Programmer-Rakesh/output/github-snake.svg" />
+</picture>
