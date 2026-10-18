@@ -83,14 +83,6 @@ and a **UAV & Robotics enthusiast**.
 
 </div>
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00d4ff/Programmer-Rakesh" width="95%" alt="Contribution heatmap" />
-
-</div>
-
 ---
 
 ## 🔗 Connect with Me
