@@ -12,7 +12,6 @@
 #### CAD & 3D Design
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-CAD-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-3D_Modeling-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 #### Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
