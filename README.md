@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Rakesh%20Roy&fontColor=ffffff&fontSize=50&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=B.Tech+ECE+Student+%F0%9F%8E%93;UAV+%26+Robotics+Enthusiast+%F0%9F%9A%81;Embedded+Systems+Builder+%F0%9F%94%A7;Computer+Vision+%26+Autonomy+%F0%9F%A4%96)](https://github.com/Programmer-Rakesh)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Rakesh%20Roy&fontColor=ffffff&fontSize=50)
 
 ![Profile Views](https://hits.sh/github.com/Programmer-Rakesh.svg?style=flat&label=Profile%20Views&color=0e75b6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-r-219390305/)
@@ -11,6 +9,34 @@
 </div>
 
 <br>
+
+## 📊 My GitHub contributions summary
+
+<div align="center">
+
+<a href="https://github.com/Programmer-Rakesh">
+  <img height="210"
+       src="https://github-readme-stats.vercel.app/api?username=Programmer-Rakesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Programmer-Rakesh">
+  <img height="210"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Rakesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+<br>
+
+<img width="75%"
+     src="https://streak-stats.demolab.com?user=Programmer-Rakesh&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="100%"
+     src="https://ghchart.rshah.org/00d4ff/Programmer-Rakesh"
+     alt="Contribution heatmap" />
+
+</div>
+
+---
 
 ## 👋 Hi there, I'm Rakesh Roy
 
