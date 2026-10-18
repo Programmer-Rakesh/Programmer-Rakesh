@@ -4,8 +4,6 @@
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Programmer-Rakesh/Programmer-Rakesh/output/github-snake.svg" />
 </picture>
 
-### Built with
-
 #### Robotics & Simulation
 ![ROS 2](https://img.shields.io/badge/ROS_2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-FF6F00?style=for-the-badge)
