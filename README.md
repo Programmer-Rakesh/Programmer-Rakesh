@@ -69,47 +69,6 @@ building drones, rovers and things that see.
 
 ---
 
-## 🚀 What I've been building
-
-| Project | What it is |
-|---|---|
-| **Multi-drone GCS** | Tkinter ground station for ArduPilot SITL swarms (pymavlink) |
-| **3D drone tracker** | Live multi-drone MAVLink map in the browser (MapLibre GL JS) |
-| **Obstacle avoidance** | ArduPilot SITL + Gazebo drone with Python avoidance logic |
-| **Visual odometry** | Gazebo city world flown with a gimbal camera drone |
-| **Avighna** | ESP32-CAM surveillance system with weapon detection |
-| **Weapon detection** | YOLO model training and dataset pipeline |
-| **Jetson quad** | Custom carbon fiber F450-class frame with Jetson baseboard |
-| **Indoor rover** | Wheeled rover simulated in Gazebo with real physics |
-| **4WD RC car** | Arduino + FlySky receiver + dual L298N drivers |
-
----
-
-## 📊 My GitHub contributions summary
-
-<div align="center">
-
-<a href="https://github.com/Programmer-Rakesh">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Programmer-Rakesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/Programmer-Rakesh">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Rakesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Programmer-Rakesh&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/00d4ff/Programmer-Rakesh" width="95%" alt="Contribution heatmap" />
-
-</div>
-
----
-
 ## 🔗 Connect with Me
 
 <div align="left">
