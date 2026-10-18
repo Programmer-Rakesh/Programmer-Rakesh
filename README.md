@@ -1,16 +1,14 @@
 <!-- ============ HEADER ============ -->
-<img align="right" alt="Coding" width="200"
-     src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Rakesh%20Roy&fontColor=ffffff&fontSize=50&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=B.Tech+ECE+Student+%F0%9F%8E%93;UAV+%26+Robotics+Enthusiast+%F0%9F%9A%81;Embedded+Systems+Builder+%F0%9F%94%A7;Computer+Vision+%26+Autonomy+%F0%9F%A4%96)](https://github.com/Programmer-Rakesh)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Programmer-Rakesh&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/Programmer-Rakesh?style=flat&logo=github&color=2c5364)
+![Profile Views](https://hits.sh/github.com/Programmer-Rakesh.svg?style=flat&label=Profile%20Views&color=0e75b6)
 ![Stars](https://img.shields.io/github/stars/Programmer-Rakesh?style=flat&logo=github&color=2c5364)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-r-219390305/)
+[![Gmail](https://img.shields.io/badge/Email-rakeshaps8866-d14836?style=flat&logo=gmail&logoColor=white)](mailto:rakeshaps8866@gmail.com)
 
 </div>
 
@@ -89,15 +87,7 @@ and a **UAV & Robotics enthusiast**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Programmer-Rakesh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Programmer-Rakesh&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://ghchart.rshah.org/00d4ff/Programmer-Rakesh" width="95%" alt="Contribution heatmap" />
 
 </div>
 
